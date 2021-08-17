@@ -12,6 +12,7 @@
     "@babel/core": "^7.15.0",
     "@babel/preset-env": "^7.15.0",
     "@babel/register": "^7.15.3",
+    "eslint": "^7.32.0",
     "gulp": "^4.0.2"
   }
 }
